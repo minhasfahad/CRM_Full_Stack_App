@@ -8,7 +8,7 @@ const Home = () => {
       {/* Header Section */}
       <div className="text-center mb-12">
         <h1 className="text-4xl font-extrabold text-blue-900 mb-2">
-          CRM Midterm Project
+          Customer Relationship Management <span className='text-red-500'>(CRM)</span>
         </h1>
         <p className="text-gray-600 text-lg">
           Please select your access role to continue
