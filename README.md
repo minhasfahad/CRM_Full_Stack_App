@@ -65,21 +65,25 @@ CRM_Full_Stack_App/
 
 ## 📸 Screenshots
 
+**Login Page**
+![Login](./crm-login.PNG)
+Secure JWT-based authentication with email and password.
+
 **Role Selection Page**
-![Role Selection](https://your-repo-screenshots/role-selection.png)
-Shows the three access levels with descriptions.
+![Role Selection](./crm-role-selection.PNG)
+Choose your access level: Admin, Manager, or Team Member.
 
-**Admin Dashboard — Customer Management**
-![Admin Dashboard](https://your-repo-screenshots/admin-dashboard.png)
-Add, view, and manage all customers with detailed forms.
+**Admin Dashboard — Add Customer**
+![Add Customer](./crm-add-customer.PNG)
+Form to register new customers with detailed information (name, email, phone, company, status, assignment).
 
-**User List with RBAC**
-![User List](https://your-repo-screenshots/user-list.png)
-View all users, their roles, and manage permissions.
+**Admin Dashboard — View All Customers**
+![All Customers](./crm-all-customers.PNG)
+Table view of all customers with actions to edit and delete.
 
-**Manager Panel — Customer View**
-![Manager Panel](https://your-repo-screenshots/manager-panel.png)
-Managers see a filtered view of team customers only.
+**User Management — View All Users**
+![All Users](./crm-all-users.PNG)
+Manage team members with role badges (Admin, Team Member) and edit/delete actions.
 
 ## 🚀 Getting Started
 
